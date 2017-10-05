@@ -1,5 +1,5 @@
 # iterm2-plastik
->Iterm2 colors based on(Will Stones [Plastic](http://wstone.io/plastic/) for VS Code.
+>Iterm2 colors based on Will Stones [Plastic](http://wstone.io/plastic/) for VS Code.
 
 ![](screenshot.png)
 
